@@ -1,4 +1,4 @@
-"#TP1"
+TP1
 
 1. Télécharger la librairie .so et le programme exécutable main.exe
 2. Déplacer le libexo.so dans /usr/lib
